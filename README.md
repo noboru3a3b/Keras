@@ -2,7 +2,7 @@ I am trying out machine learning using Keras.
 Keras has an intuitive API, making it relatively easy to learn.
 However, since I will be using a GTX 1650 GPU on Windows 11, I have to use a slightly older version of Keras.
 
-# Addition Learning Using LSTM (Verification of Generalization)
+## Addition Learning Using LSTM (Verification of Generalization)
 ```
 (tf_gpu_env) C:\Users\user\Keras>py lstm_add_seq2seq7.py
 モデル構築中...
